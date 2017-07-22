@@ -1,0 +1,2 @@
+systeminfo|find "Time:"
+pause
